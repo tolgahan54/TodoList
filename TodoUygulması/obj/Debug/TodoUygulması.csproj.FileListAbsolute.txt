@@ -1,0 +1,13 @@
+C:\Users\cml_u\source\repos\TodoUygulması\TodoUygulması\bin\Debug\TodoUygulması.exe.config
+C:\Users\cml_u\source\repos\TodoUygulması\TodoUygulması\bin\Debug\TodoUygulması.exe
+C:\Users\cml_u\source\repos\TodoUygulması\TodoUygulması\bin\Debug\TodoUygulması.pdb
+C:\Users\cml_u\source\repos\TodoUygulması\TodoUygulması\obj\Debug\TodoUygulması.csproj.AssemblyReference.cache
+C:\Users\cml_u\source\repos\TodoUygulması\TodoUygulması\obj\Debug\TodoUygulması.Form1.resources
+C:\Users\cml_u\source\repos\TodoUygulması\TodoUygulması\obj\Debug\TodoUygulması.Properties.Resources.resources
+C:\Users\cml_u\source\repos\TodoUygulması\TodoUygulması\obj\Debug\TodoUygulması.csproj.GenerateResource.cache
+C:\Users\cml_u\source\repos\TodoUygulması\TodoUygulması\obj\Debug\TodoUygulması.csproj.CoreCompileInputs.cache
+C:\Users\cml_u\source\repos\TodoUygulması\TodoUygulması\obj\Debug\TodoUygulması.exe
+C:\Users\cml_u\source\repos\TodoUygulması\TodoUygulması\obj\Debug\TodoUygulması.pdb
+C:\Users\cml_u\source\repos\TodoUygulması\TodoUygulması\obj\Debug\TodoUygulması.sstemGiris.resources
+C:\Users\cml_u\source\repos\TodoUygulması\TodoUygulması\obj\Debug\TodoUygulması.yenikayit.resources
+C:\Users\cml_u\source\repos\TodoUygulması\TodoUygulması\obj\Debug\TodoUygulması.kayitliste.resources
